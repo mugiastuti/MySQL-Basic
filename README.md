@@ -1,1 +1,1 @@
-# MySQL-Basic
+# MySQL-Basics
